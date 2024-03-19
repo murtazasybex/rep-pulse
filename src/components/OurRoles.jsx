@@ -61,7 +61,7 @@ const OurRoles = () => {
           alt=""
         />
       </section>
-      <p className="text-[20px] text-[#0F0F0F] font-semibold text-center hover:text-[#00BDAD] transition-colors cursor-pointer pb-5">
+      <p className="text-[20px] text-[#0F0F0F] font-semibold text-center hover:text-[#00BDAD] transition-colors cursor-pointer pb-14">
         Hover To Know More!
       </p>
     </>

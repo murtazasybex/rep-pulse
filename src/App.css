@@ -1,3 +1,7 @@
+* {
+  scroll-behavior: smooth;
+}
+
 .dot {
   top: 44px;
   left: 1654px;

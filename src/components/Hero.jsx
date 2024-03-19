@@ -7,7 +7,7 @@ const Hero = () => {
       <section className="mx-auto container">
         <div className="flex justify-between items-center">
           <div className="flex flex-col space-y-10 w-full max-w-[500px] justify-start text-start">
-            <h1 className="font-extrabold text-[50px]">
+            <h1 className="font-extrabold text-[50px] leading-tight">
               Lorem ipsum dolor sit amet, consetetur sadipscing elitr.
             </h1>
             <p className="text-[20px] font-medium">
