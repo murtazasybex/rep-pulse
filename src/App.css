@@ -1,0 +1,23 @@
+.dot {
+  top: 44px;
+  left: 1654px;
+  width: 14px;
+  height: 14px;
+  /* UI Properties */
+  background: #0f0f0f 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.bgHowitworks {
+  background: url(./assets/srvc-BG.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bgKeyPositions {
+  background: transparent linear-gradient(65deg, #0f0f0f 0%, #0f0f0fd1 35%) 0%
+    0% no-repeat padding-box;
+
+  background-size: cover;
+}
