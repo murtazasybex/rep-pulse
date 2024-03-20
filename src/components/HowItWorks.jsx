@@ -5,10 +5,10 @@ const HowItWorks = () => {
     <>
       <section className="bgHowitworks">
         <div className="mx-auto container p-10">
-          <h1 className="text-[75px] font-extrabold text-white text-center">
+          <h1 className="md:text-[75px] text-[40px] font-extrabold text-white text-center">
             How It Works?
           </h1>
-          <div className="flex md:justify-between justify-center md:space-y-0 space-y-10 py-20">
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 grid-cols-1 place-items-center md:place-items-baseline content-center xl:space-y-0 space-y-10 py-20">
             <div className="w-full max-w-[300px] text-white text-center">
               {/* <div className="bg-[#00BDAD] rounded-lg"></div> */}
               <h1 className="text-[26px] font-medium pb-2">Discovery Call</h1>

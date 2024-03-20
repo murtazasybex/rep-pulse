@@ -4,10 +4,10 @@ import keypositionsimg from "../assets/why-img.png";
 const KeyPositions = () => {
   return (
     <>
-      <section className="bg-[#0F0F0F] py-16">
-        <div className="container mx-auto flex md:justify-between justify-center lg:space-y-0 space-y-20 flex-wrap items-center">
+      <section className="bg-[#0F0F0F] py-16 px-2">
+        <div className="container mx-auto flex md:justify-between justify-center lg:space-y-0 space-y-20 lg:flex-nowrap flex-wrap items-center">
           <div className="flex flex-col space-y-5 w-full max-w-[700px] justify-start text-start text-[#F8F8F8] text-[18px] ">
-            <h1 className="font-extrabold text-[70px] leading-tight">
+            <h1 className="font-extrabold md:text-[70px] text-[40px] leading-tight">
               Why Opt For These Key Positions?
             </h1>
             <p className="">

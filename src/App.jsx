@@ -12,6 +12,7 @@ import {
   ReadyToHire,
   Services,
 } from "./components";
+import Announcement from "./components/Announcement";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
       <KeyPositions />
       <PassionFueled />
       <MustHireRole />
+      <Announcement />
       <ReadyToHire />
       <OneStepAhead />
       <Services />

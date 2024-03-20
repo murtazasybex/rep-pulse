@@ -7,7 +7,6 @@
   left: 1654px;
   width: 14px;
   height: 14px;
-  /* UI Properties */
   background: #0f0f0f 0% 0% no-repeat padding-box;
   opacity: 1;
 }
@@ -25,3 +24,7 @@
 
   background-size: cover;
 }
+
+/* .bgOneStepAhead {
+  background: url(./assets/);
+} */
