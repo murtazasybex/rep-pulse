@@ -49,12 +49,12 @@ const Footer = () => {
                 <div className="lg:space-y-8 space-y-5 lg:pt-2 pt-8">
                   <img
                     src={badgetwo}
-                    className="w-full max-w-[150px] h-[50px] transform transition hover:scale-150"
+                    className="w-full transform transition hover:scale-150"
                     alt=""
                   />
                   <img
                     src={badgefive}
-                    className="w-full max-w-[140px] h-[50px] transform transition hover:scale-150"
+                    className="w-full  transform transition hover:scale-150"
                     alt=""
                   />
                 </div>
