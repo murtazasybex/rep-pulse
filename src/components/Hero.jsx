@@ -45,7 +45,11 @@ const Hero = () => {
               <span class="relative text-white ">Talk To Us</span>
             </button>
           </div>
-          <img src={heroimg} className="w-full max-w-[750px]" alt="" />
+          <img
+            src={heroimg}
+            className="w-full max-w-[750px]"
+            alt="hero image"
+          />
           {/* <video
             src={bgHeader}
             type="video/mp4"

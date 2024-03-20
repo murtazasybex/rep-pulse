@@ -11,7 +11,7 @@ const Announcement = () => {
             width={1000}
             height={1200}
             className="pt-10"
-            alt=""
+            alt="announcement"
           />
           <div className="w-full xl:max-w-[500px] text-[#F8F8F8] md:text-[18px] text-[16px] space-y-5 py-10">
             <p>

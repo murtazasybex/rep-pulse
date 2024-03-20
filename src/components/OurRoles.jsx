@@ -59,7 +59,7 @@ const OurRoles = () => {
           <img
             src={ourroles}
             className="w-full max-w-[1000px] h-full max-h-[1000px] lg:pt-0 pt-10"
-            alt=""
+            alt="our roles"
           />
         </div>
         <div className="mx-auto w-52">

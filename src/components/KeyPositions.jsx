@@ -44,7 +44,11 @@ const KeyPositions = () => {
               Mistakes And Set Your Agency Up For Success.
             </p>
           </div>
-          <img src={keypositionsimg} className="w-full max-w-[700px]" alt="" />
+          <img
+            src={keypositionsimg}
+            className="w-full max-w-[700px]"
+            alt="key positions"
+          />
         </div>
       </section>
     </>

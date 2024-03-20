@@ -22,7 +22,11 @@ const PassionFueled = () => {
               <span class="relative hover:text-black">Get Started</span>
             </button>
           </div>
-          <img src={passionfuel} className="w-full max-w-[700px]" alt="" />
+          <img
+            src={passionfuel}
+            className="w-full max-w-[700px]"
+            alt="passion fuel"
+          />
         </div>
       </section>
     </>

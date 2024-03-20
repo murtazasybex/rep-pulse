@@ -25,7 +25,7 @@ const ReadyToHire = () => {
               src={ctaimg}
               className="xl:flex hidden h-full"
               width={200}
-              alt=""
+              alt="call to action"
             />
           </div>
         </div>

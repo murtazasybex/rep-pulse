@@ -16,7 +16,7 @@ const Footer = () => {
               <h1 className="md:text-[65px] text-[45px] font-bold leading-tight">
                 How Can We Help You?
               </h1>
-              <div className="flex">
+              <div className="flex lg:pl-0 pl-7">
                 <a
                   href="#"
                   className="md:text-[50px] transform hover:scale-125 text-[40px] italic hover:no-underline underline font-semibold transition duration-300 group"
@@ -33,29 +33,29 @@ const Footer = () => {
                 <img
                   src={badgethree}
                   className="w-full max-w-[120px] h-[120px] transform transition hover:scale-150"
-                  alt=""
+                  alt="honour badge"
                 />
                 <img
                   src={badgefour}
                   className="w-full max-w-[120px] h-[120px] transform transition hover:scale-150"
-                  alt=""
+                  alt="honour badge"
                 />
                 <img
                   src={badgeone}
                   className="w-full max-w-[150px] h-[120px] transform transition hover:scale-150"
-                  alt=""
+                  alt="honour badge"
                 />
 
                 <div className="lg:space-y-8 space-y-5 lg:pt-2 pt-8">
                   <img
                     src={badgetwo}
                     className="w-full transform transition hover:scale-150"
-                    alt=""
+                    alt="honour badge"
                   />
                   <img
                     src={badgefive}
-                    className="w-full  transform transition hover:scale-150"
-                    alt=""
+                    className="w-full transform transition hover:scale-150"
+                    alt="honour badge"
                   />
                 </div>
               </div>
